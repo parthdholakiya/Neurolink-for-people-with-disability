@@ -18,13 +18,18 @@ Developed an image-to-text system leveraging the GPT-2 model to generate context
 - `requirements.txt`: Package dependencies.
 
 ## Setup and Installation
-1. Clone the repository: `git clone [repository-link]`
-2. Install dependencies: `pip install -r requirements.txt`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/parthdholakiya/GPT-2-Based-Image-to-Text-System.git
+
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
 
 ## Usage
-- **Training**: `python train.py` (customize parameters as needed).
-- **Evaluation**: `python test.py`.
-- **Streamlit App**: `streamlit run app.py`.
+- **Training**: ```bash python train.py` (customize parameters as needed).
+- **Evaluation**: ```bash  python test.py`.
+- **Streamlit App**: ```bash streamlit run app.py`.
 
 ## Contributions
 Fork and submit a pull request for contributions.
