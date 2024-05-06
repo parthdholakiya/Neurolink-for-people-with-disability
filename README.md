@@ -31,6 +31,4 @@ Developed an image-to-text system leveraging the GPT-2 model to generate context
 - **Evaluation**: ```bash  python test.py`.
 - **Streamlit App**: ```bash streamlit run app.py`.
 
-## Contributions
-Fork and submit a pull request for contributions.
 
