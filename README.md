@@ -1,5 +1,5 @@
 
-# (part-1) GPT-2 Based Image-to-Text System
+# (part-1) Image_Captioning System
 
 ![ImageTotext-video](https://github.com/parthdholakiya/GPT-2-Based-Image-to-Text-System/assets/94167271/13fb6eb4-4e75-4502-98f0-a3991dd337cd)
 
