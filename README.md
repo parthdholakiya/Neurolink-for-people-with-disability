@@ -29,7 +29,7 @@ The training loop fine-tunes the GPT-2 model on the image-caption dataset. It un
 
 A function is provided to generate captions for new images using the trained model. The function loads a pre-trained model state and sets the model to evaluation mode before generating captions.
 
-# (part-2) Speech Recognition using OpenAI's Whisper Model
+# (part-2) Audio_Transcription 
 
 ### Overview
 
