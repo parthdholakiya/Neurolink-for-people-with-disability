@@ -1,7 +1,6 @@
 
-# (part-1) Image_Captioning System
+# Image_Captioning System
 
-![ImageTotext-video](https://github.com/parthdholakiya/GPT-2-Based-Image-to-Text-System/assets/94167271/13fb6eb4-4e75-4502-98f0-a3991dd337cd)
 
 ## Image To Text Demo on GPT-2
 
@@ -29,7 +28,7 @@ The training loop fine-tunes the GPT-2 model on the image-caption dataset. It un
 
 A function is provided to generate captions for new images using the trained model. The function loads a pre-trained model state and sets the model to evaluation mode before generating captions.
 
-# (part-2) Audio_Transcription 
+# Audio_Transcription 
 
 ### Overview
 
